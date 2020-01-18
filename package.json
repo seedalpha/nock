@@ -1,5 +1,5 @@
 {
-  "name": "nock",
+  "name": "@seedalpha/nock",
   "description": "HTTP Server mocking for Node.js",
   "tags": [
     "Mock",
@@ -7,7 +7,7 @@
     "testing",
     "isolation"
   ],
-  "version": "0.44.3",
+  "version": "0.44.13",
   "author": "Pedro Teixeira <pedro.teixeira@gmail.com>",
   "contributors": [
     {
